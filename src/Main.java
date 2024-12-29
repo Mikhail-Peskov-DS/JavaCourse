@@ -11,7 +11,7 @@ public class Main {
         /*
         The method prints a line to the console
         */
-        System.out.println("Hello"); // shortcut "sout"
+        System.out.println("Hello world"); // shortcut "sout"
 
     }
 }
