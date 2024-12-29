@@ -1,9 +1,11 @@
+package syntax;
+
 /**
  * @author Mikhail Peskov
  * @version 0.1
  */
 
-// Main class
+// syntax.Main class
 public class Main {
     // Entry point
     public static void main(String[] args) {
